@@ -23,5 +23,3 @@ This task was completed as part of the **µLearn Level 3 – AI Interest Group**
 - OpenCV (via Ultralytics)
 
 ---
-
-## 📂 Project Structure
